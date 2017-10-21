@@ -1,2 +1,2 @@
 ## Algorithm-Structure
-*A place to restore the codes*
+**A place to restore the codes**
